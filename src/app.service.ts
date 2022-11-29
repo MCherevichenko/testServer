@@ -7,16 +7,12 @@ export class AppService {
     }
 
     public createEmailCode(email) {
-        if (email === 'maksim199816@yandex.ru') {
-            return '1234';
-        } else {
-            return String(Math.floor(Math.random() * (9999 - 1000 + 1)) + 1000);
-        }
+        return '1234';
     }
 
     public checkCode(code) {
         if (code === '1234') {
-            return '1234';
+            return true;
         }
     }
 

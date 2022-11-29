@@ -16,7 +16,7 @@ export class AppController {
     }
 
     @Post(':code')
-    checkCode(@Param('code') code: string): string {
+    checkCode(@Param('code') code: string) {
         return this.appService.checkCode(code);
     }
 
