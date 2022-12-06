@@ -27,6 +27,6 @@ export class AppService {
     }
 
     public saveBybtKeys(keys) {
-        return 'We save your keys'
+        return { message: 'We save your keys' }
     }
 }

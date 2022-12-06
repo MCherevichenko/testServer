@@ -21,12 +21,12 @@ export class AppController {
     }
 
     @Post('v1/session')
-    sendSessionId(@Body() body): string {
+    sendSessionId(@Body() body) {
         return this.appService.createSession(body);
     }
 
     @Post('v1/keys')
-    saveBybtKeys(@Body() body): string {
+    saveBybtKeys(@Body() body) {
         return this.appService.saveBybtKeys(body);
     }
 
