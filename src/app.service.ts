@@ -11,9 +11,7 @@ export class AppService {
     }
 
     public checkCode(code) {
-        if (code === '1234') {
-            return true;
-        }
+        return 1234;
     }
 
     public createSession(body) {
