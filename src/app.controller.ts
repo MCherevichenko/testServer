@@ -40,6 +40,53 @@ export class AppController {
         return this.appService.createBot(req.body);
     }
 
+    @Get('/v1/sessions/:sessionId/user-panel')
+    userStat(@Param('sessionId') sessionId) {
+        return {
+            "user_statitics": {
+                "total_realized_pnl": [
+                    100,
+                    150,
+                    130
+                ],
+                "daily_realized_pnl": 100,
+                "running_equity": [
+                    10000,
+                    15000,
+                    13000
+                ],
+                "total_realized_pnl_data": [
+                    {
+                        "date": "2022-11-28",
+                        "cum_pnl": 0
+                    }
+                ],
+                "daily_realized_pnl_data": [
+                    {
+                        "date": "2022-11-28",
+                        "cum_pnl": 100
+                    }
+                ],
+                "profit_distribution_data": {},
+                "equity_allocation_data": [
+                    {
+                        "coin": "USDT",
+                        "allocation": 0.3
+                    }
+                ],
+                "bots_win_rate_data": {
+                    "profitable": 30,
+                    "losable": 20,
+                    "neutral": 50
+                }
+            },
+            "status": {
+                "code": "0.12.3",
+                "message": "OK"
+            }
+        }
+    }
+
     @Get('bots/:userId')
     allUserBots() {
         return {
