@@ -376,12 +376,14 @@ export class AppController {
             bots: [
                 {
                     id: 1,
-                    type: 'grid tronic',
-                    strategy: 'LONG',
+                    type: 'orderblock',
+                    strategy: 'STRATEGY_TYPE_LONG',
                     runtime: '3D 4H 23M',
                     risk: 'LOW',
                     apr: 11669.78,
                     pnl: ' - 11, 669.78% ',
+                    pair: 'MATIC/USDT',
+                    exchange: 'EXCHANGE_BYBT'
                 },
                 {
                     id: 2,
