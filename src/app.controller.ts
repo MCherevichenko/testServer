@@ -393,6 +393,7 @@ export class AppController {
                     risk: 'LOW',
                     apr: 13669.78,
                     pnl: '-11,669.78%',
+                    exchange: 'EXCHANGE_BYBT'
                 },
                 {
                     id: 3,
@@ -402,6 +403,7 @@ export class AppController {
                     risk: 'LOW',
                     apr: 13669.78,
                     pnl: '-11,669.78%',
+                    exchange: 'EXCHANGE_BYBT'
                 },
                 {
                     id: 4,
@@ -411,6 +413,7 @@ export class AppController {
                     risk: 'LOW',
                     apr: 13669.78,
                     pnl: '-11,669.78%',
+                    exchange: 'EXCHANGE_BINANCE'
                 },
                 {
                     id: 5,
@@ -420,6 +423,7 @@ export class AppController {
                     risk: 'LOW',
                     apr: 13669.78,
                     pnl: '-11,669.78%',
+                    exchange: 'EXCHANGE_BINANCE'
                 },
                 {
                     id: 6,
@@ -429,6 +433,7 @@ export class AppController {
                     risk: 'LOW',
                     apr: 13669.78,
                     pnl: '-11,669.78%',
+                    exchange: 'EXCHANGE_BINANCE'
                 },
                 {
                     id: 7,
@@ -438,6 +443,7 @@ export class AppController {
                     risk: 'LOW',
                     apr: 13669.78,
                     pnl: '-11,669.78%',
+                    exchange: 'EXCHANGE_OKX'
                 },
                 {
                     id: 8,
@@ -447,6 +453,7 @@ export class AppController {
                     risk: 'LOW',
                     apr: 13669.78,
                     pnl: '-11,669.78%',
+                    exchange: 'EXCHANGE_OKX'
                 },
                 {
                     id: 9,
@@ -456,6 +463,7 @@ export class AppController {
                     risk: 'LOW',
                     apr: 13669.78,
                     pnl: '-11,669.78%',
+                    exchange: 'EXCHANGE_OKX'
                 },
                 {
                     id: 10,
@@ -465,6 +473,7 @@ export class AppController {
                     risk: 'LOW',
                     apr: 13669.78,
                     pnl: '-11,669.78%',
+                    exchange: 'EXCHANGE_OKX'
                 },
                 {
                     id: 11,
@@ -474,6 +483,7 @@ export class AppController {
                     risk: 'LOW',
                     apr: 13669.78,
                     pnl: '-11,669.78%',
+                    exchange: 'EXCHANGE_OKX'
                 },
                 {
                     id: 12,
@@ -483,6 +493,7 @@ export class AppController {
                     risk: 'LOW',
                     apr: 13669.78,
                     pnl: '-11,669.78%',
+                    exchange: 'EXCHANGE_BYBT'
                 },
                 {
                     id: 13,
@@ -492,6 +503,7 @@ export class AppController {
                     risk: 'LOW',
                     apr: 13669.78,
                     pnl: '-11,669.78%',
+                    exchange: 'EXCHANGE_BYBT'
                 },
                 {
                     id: 14,
@@ -501,6 +513,7 @@ export class AppController {
                     risk: 'LOW',
                     apr: 13669.78,
                     pnl: '-11,669.78%',
+                    exchange: 'EXCHANGE_BYBT'
                 },
                 {
                     id: 15,
@@ -510,6 +523,7 @@ export class AppController {
                     risk: 'LOW',
                     apr: 13669.78,
                     pnl: '-11,669.78%',
+                    exchange: 'EXCHANGE_BYBT'
                 },
                 {
                     id: 16,
@@ -519,6 +533,7 @@ export class AppController {
                     risk: 'LOW',
                     apr: 13669.78,
                     pnl: '-11,669.78%',
+                    exchange: 'EXCHANGE_BYBT'
                 },
                 {
                     id: 17,
@@ -528,6 +543,7 @@ export class AppController {
                     risk: 'LOW',
                     apr: 13669.78,
                     pnl: '-11,669.78%',
+                    exchange: 'EXCHANGE_BINANCE'
                 },
                 {
                     id: 18,
@@ -537,6 +553,7 @@ export class AppController {
                     risk: 'LOW',
                     apr: 13669.78,
                     pnl: '-11,669.78%',
+                    exchange: 'EXCHANGE_BINANCE'
                 },
                 {
                     id: 19,
@@ -546,6 +563,7 @@ export class AppController {
                     risk: 'LOW',
                     apr: 13669.78,
                     pnl: '-11,669.78%',
+                    exchange: 'EXCHANGE_BINANCE'
                 },
                 {
                     id: 20,
@@ -555,6 +573,7 @@ export class AppController {
                     risk: 'LOW',
                     apr: 13669.78,
                     pnl: '-11,669.78%',
+                    exchange: 'EXCHANGE_BINANCE'
                 },
                 {
                     id: 21,
@@ -564,6 +583,7 @@ export class AppController {
                     risk: 'LOW',
                     apr: 9669.78,
                     pnl: '-11,669.78%',
+                    exchange: 'EXCHANGE_BINANCE'
                 },
                 {
                     id: 22,
@@ -573,6 +593,7 @@ export class AppController {
                     risk: 'LOW',
                     apr: 9669.78,
                     pnl: '-11,669.78%',
+                    exchange: 'EXCHANGE_BINANCE'
                 },
                 {
                     id: 23,
@@ -582,6 +603,7 @@ export class AppController {
                     risk: 'LOW',
                     apr: 9669.78,
                     pnl: '-11,669.78%',
+                    exchange: 'EXCHANGE_OKX'
                 },
                 {
                     id: 24,
@@ -591,6 +613,7 @@ export class AppController {
                     risk: 'MEDIUM',
                     apr: 14669.78,
                     pnl: '-11,669.78%',
+                    exchange: 'EXCHANGE_OKX'
                 },
                 {
                     id: 25,
@@ -600,6 +623,7 @@ export class AppController {
                     risk: 'HIGHT',
                     apr: 14669.78,
                     pnl: '-11,669.78%',
+                    exchange: 'EXCHANGE_OKX'
                 },
                 {
                     id: 26,
@@ -609,6 +633,7 @@ export class AppController {
                     risk: 'LOW',
                     apr: 14669.78,
                     pnl: '-11,669.78%',
+                    exchange: 'EXCHANGE_OKX'
                 },
                 {
                     id: 27,
@@ -618,6 +643,7 @@ export class AppController {
                     risk: 'LOW',
                     apr: 13669.78,
                     pnl: '-11,669.78%',
+                    exchange: 'EXCHANGE_OKX'
                 },
                 {
                     id: 28,
@@ -627,6 +653,7 @@ export class AppController {
                     risk: 'HIGHT',
                     apr: 12669.78,
                     pnl: '-11,669.78%',
+                    exchange: 'EXCHANGE_OKX'
                 },
                 {
                     id: 29,
@@ -636,6 +663,7 @@ export class AppController {
                     risk: 'HIGHT',
                     apr: 10669.78,
                     pnl: '-11,669.78%',
+                    exchange: 'EXCHANGE_OKX'
                 },
                 {
                     id: 30,
@@ -646,6 +674,7 @@ export class AppController {
                     risk: 'HIGHT',
                     apr: 10669.78,
                     pnl: '-11,669.78%',
+                    exchange: 'EXCHANGE_OKX'
                 },
             ]
         }
