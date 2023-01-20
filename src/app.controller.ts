@@ -390,7 +390,7 @@ export class AppController {
                 {
                     id: 2,
                     type: 'aftershock',
-                    strategy: 'SHORT',
+                    strategy: 'STRATEGY_TYPE_SHORT',
                     runtime: '3D 4H 23M',
                     risk: 'LOW',
                     apr: 13669.78,
@@ -403,7 +403,7 @@ export class AppController {
                 {
                     id: 3,
                     type: 'aftershock',
-                    strategy: 'SHORT',
+                    strategy: 'STRATEGY_TYPE_SHORT',
                     runtime: '3D 4H 23M',
                     risk: 'LOW',
                     apr: 13669.78,
@@ -416,7 +416,7 @@ export class AppController {
                 {
                     id: 4,
                     type: 'aftershock',
-                    strategy: 'SHORT',
+                    strategy: 'STRATEGY_TYPE_SHORT',
                     runtime: '3D 4H 23M',
                     risk: 'LOW',
                     apr: 13669.78,
@@ -429,7 +429,7 @@ export class AppController {
                 {
                     id: 5,
                     type: 'aftershock',
-                    strategy: 'SHORT',
+                    strategy: 'STRATEGY_TYPE_SHORT',
                     runtime: '3D 4H 23M',
                     risk: 'LOW',
                     apr: 13669.78,
@@ -442,7 +442,7 @@ export class AppController {
                 {
                     id: 6,
                     type: 'aftershock',
-                    strategy: 'SHORT',
+                    strategy: 'STRATEGY_TYPE_SHORT',
                     runtime: '3D 4H 23M',
                     risk: 'LOW',
                     apr: 13669.78,
@@ -455,7 +455,7 @@ export class AppController {
                 {
                     id: 7,
                     type: 'aftershock',
-                    strategy: 'SHORT',
+                    strategy: 'STRATEGY_TYPE_SHORT',
                     runtime: '3D 4H 23M',
                     risk: 'LOW',
                     apr: 13669.78,
@@ -468,7 +468,7 @@ export class AppController {
                 {
                     id: 8,
                     type: 'aftershock',
-                    strategy: 'SHORT',
+                    strategy: 'STRATEGY_TYPE_SHORT',
                     runtime: '3D 4H 23M',
                     risk: 'LOW',
                     apr: 13669.78,
@@ -481,7 +481,7 @@ export class AppController {
                 {
                     id: 9,
                     type: 'aftershock',
-                    strategy: 'SHORT',
+                    strategy: 'STRATEGY_TYPE_SHORT',
                     runtime: '3D 4H 23M',
                     risk: 'LOW',
                     apr: 13669.78,
@@ -494,7 +494,7 @@ export class AppController {
                 {
                     id: 10,
                     type: 'aftershock',
-                    strategy: 'SHORT',
+                    strategy: 'STRATEGY_TYPE_SHORT',
                     runtime: '3D 4H 23M',
                     risk: 'LOW',
                     apr: 13669.78,
@@ -507,7 +507,7 @@ export class AppController {
                 {
                     id: 11,
                     type: 'aftershock',
-                    strategy: 'SHORT',
+                    strategy: 'STRATEGY_TYPE_SHORT',
                     runtime: '3D 4H 23M',
                     risk: 'LOW',
                     apr: 13669.78,
@@ -520,7 +520,7 @@ export class AppController {
                 {
                     id: 12,
                     type: 'aftershock',
-                    strategy: 'SHORT',
+                    strategy: 'STRATEGY_TYPE_SHORT',
                     runtime: '3D 4H 23M',
                     risk: 'LOW',
                     apr: 13669.78,
@@ -533,7 +533,7 @@ export class AppController {
                 {
                     id: 13,
                     type: 'aftershock',
-                    strategy: 'SHORT',
+                    strategy: 'STRATEGY_TYPE_SHORT',
                     runtime: '3D 4H 23M',
                     risk: 'LOW',
                     apr: 13669.78,
@@ -546,7 +546,7 @@ export class AppController {
                 {
                     id: 14,
                     type: 'aftershock',
-                    strategy: 'SHORT',
+                    strategy: 'STRATEGY_TYPE_SHORT',
                     runtime: '3D 4H 23M',
                     risk: 'LOW',
                     apr: 13669.78,
@@ -559,7 +559,7 @@ export class AppController {
                 {
                     id: 15,
                     type: 'aftershock',
-                    strategy: 'SHORT',
+                    strategy: 'STRATEGY_TYPE_SHORT',
                     runtime: '3D 4H 23M',
                     risk: 'LOW',
                     apr: 13669.78,
@@ -572,7 +572,7 @@ export class AppController {
                 {
                     id: 16,
                     type: 'aftershock',
-                    strategy: 'SHORT',
+                    strategy: 'STRATEGY_TYPE_SHORT',
                     runtime: '3D 4H 23M',
                     risk: 'LOW',
                     apr: 13669.78,
@@ -585,7 +585,7 @@ export class AppController {
                 {
                     id: 17,
                     type: 'aftershock',
-                    strategy: 'SHORT',
+                    strategy: 'STRATEGY_TYPE_SHORT',
                     runtime: '3D 4H 23M',
                     risk: 'LOW',
                     apr: 13669.78,
@@ -598,7 +598,7 @@ export class AppController {
                 {
                     id: 18,
                     type: 'aftershock',
-                    strategy: 'SHORT',
+                    strategy: 'STRATEGY_TYPE_SHORT',
                     runtime: '3D 4H 23M',
                     risk: 'LOW',
                     apr: 13669.78,
@@ -611,7 +611,7 @@ export class AppController {
                 {
                     id: 19,
                     type: 'aftershock',
-                    strategy: 'SHORT',
+                    strategy: 'STRATEGY_TYPE_SHORT',
                     runtime: '3D 4H 23M',
                     risk: 'LOW',
                     apr: 13669.78,
@@ -624,7 +624,7 @@ export class AppController {
                 {
                     id: 20,
                     type: 'aftershock',
-                    strategy: 'SHORT',
+                    strategy: 'STRATEGY_TYPE_SHORT',
                     runtime: '3D 4H 23M',
                     risk: 'LOW',
                     apr: 13669.78,
@@ -637,7 +637,7 @@ export class AppController {
                 {
                     id: 21,
                     type: 'grid tronic',
-                    strategy: 'LONG',
+                    strategy: 'STRATEGY_TYPE_LONG',
                     runtime: '3D 4H 23M',
                     risk: 'LOW',
                     apr: 9669.78,
@@ -650,7 +650,7 @@ export class AppController {
                 {
                     id: 22,
                     type: 'grid tronic',
-                    strategy: 'LONG',
+                    strategy: 'STRATEGY_TYPE_LONG',
                     runtime: '3D 4H 23M',
                     risk: 'LOW',
                     apr: 9669.78,
@@ -663,7 +663,7 @@ export class AppController {
                 {
                     id: 23,
                     type: 'orderblock',
-                    strategy: 'LONG',
+                    strategy: 'STRATEGY_TYPE_LONG',
                     runtime: '3D 4H 23M',
                     risk: 'LOW',
                     apr: 9669.78,
@@ -676,7 +676,7 @@ export class AppController {
                 {
                     id: 24,
                     type: 'orderblock',
-                    strategy: 'LONG',
+                    strategy: 'STRATEGY_TYPE_LONG',
                     runtime: '3D 4H 23M',
                     risk: 'MEDIUM',
                     apr: 14669.78,
@@ -689,7 +689,7 @@ export class AppController {
                 {
                     id: 25,
                     type: 'astrobot',
-                    strategy: 'SHORT',
+                    strategy: 'STRATEGY_TYPE_SHORT',
                     runtime: '3D 4H 23M',
                     risk: 'HIGH',
                     apr: 14669.78,
@@ -702,7 +702,7 @@ export class AppController {
                 {
                     id: 26,
                     type: 'orderblock',
-                    strategy: 'SHORT',
+                    strategy: 'STRATEGY_TYPE_SHORT',
                     runtime: '3D 4H 23M',
                     risk: 'LOW',
                     apr: 14669.78,
@@ -715,7 +715,7 @@ export class AppController {
                 {
                     id: 27,
                     type: 'aftershock',
-                    strategy: 'SHORT',
+                    strategy: 'STRATEGY_TYPE_SHORT',
                     runtime: '3D 4H 23M',
                     risk: 'LOW',
                     apr: 13669.78,
@@ -728,7 +728,7 @@ export class AppController {
                 {
                     id: 28,
                     type: 'aftershock',
-                    strategy: 'SHORT',
+                    strategy: 'STRATEGY_TYPE_SHORT',
                     runtime: '3D 4H 23M',
                     risk: 'HIGH',
                     apr: 12669.78,
@@ -741,7 +741,7 @@ export class AppController {
                 {
                     id: 29,
                     type: 'astrobot',
-                    strategy: 'SPOT',
+                    strategy: 'STRATEGY_TYPE_SPOT',
                     runtime: '3D 4H 23M',
                     risk: 'HIGH',
                     apr: 10669.78,
@@ -755,7 +755,7 @@ export class AppController {
                     id: 30,
                     number: '10',
                     type: 'astrobot',
-                    strategy: 'SPOT',
+                    strategy: 'STRATEGY_TYPE_SPOT',
                     runtime: '3D 4H 23M',
                     risk: 'HIGH',
                     apr: 10669.78,
